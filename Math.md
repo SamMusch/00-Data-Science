@@ -113,32 +113,3 @@ Quality of our variables
 
 
 
-# Timeline
-
-| name   | Date          |
-| ------ | ------------- |
-| Thales | 624 – 546 BCE |
-|        |               |
-|        |               |
-|        |               |
-
-
-
-
-
-Thales
-
-1. Draw a semicircle.
-2. Create a dot on the semicircle.
-3. This always create a right triangle.
-
-
-
-
-
-
-
-
-
-
-
